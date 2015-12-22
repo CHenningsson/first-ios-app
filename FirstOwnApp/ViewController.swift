@@ -14,6 +14,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var SmallRed: UIImageView!
     @IBOutlet weak var SmallBlue: UIImageView!
     @IBOutlet weak var text: UILabel!
+    @IBOutlet weak var h: UIButton!
+    @IBOutlet weak var t: UIButton!
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -44,6 +46,8 @@ class ViewController: UIViewController {
         SmallRed.hidden = false
         SmallBlue.hidden = false
         text.hidden = false
+        h.hidden = false
+        t.hidden = false
     }
 
 

@@ -74,6 +74,8 @@
                         <outlet property="BigRed" destination="Vgf-2o-DuZ" id="qTC-98-cnb"/>
                         <outlet property="SmallBlue" destination="Yew-gb-YpJ" id="OJI-4f-19U"/>
                         <outlet property="SmallRed" destination="ICQ-FD-xUy" id="hXQ-Ba-3ea"/>
+                        <outlet property="h" destination="j2u-b0-y7U" id="ZWc-vu-sgF"/>
+                        <outlet property="t" destination="o0B-2y-gYJ" id="JHe-kV-Kr6"/>
                         <outlet property="text" destination="AC8-eR-XSr" id="KTc-cP-3Ne"/>
                     </connections>
                 </viewController>
